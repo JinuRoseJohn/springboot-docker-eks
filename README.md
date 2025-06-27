@@ -30,3 +30,6 @@ This repository contains a simple Spring Boot application that is containerized 
 ├── pom.xml                    # Maven project config
 └── README.md
 
+
+Dummy commit : 1
+
